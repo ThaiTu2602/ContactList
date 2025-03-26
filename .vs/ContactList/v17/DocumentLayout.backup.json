@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\",
+  "WorkspaceRootPath": "D:\\new bt26_3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|c:\\users\\quoc dat\\source\\repos\\contactlist\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|d:\\new bt26_3\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|D:\\new bt26_3\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|D:\\new bt26_3\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -46,6 +42,14 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
@@ -57,16 +61,43 @@
               "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm..cs",
+              "DocumentMoniker": "D:\\new bt26_3\\MainForm..cs",
+              "RelativeDocumentMoniker": "MainForm..cs",
+              "ToolTip": "D:\\new bt26_3\\MainForm..cs",
+              "RelativeToolTip": "MainForm..cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:32:25.19Z"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "D:\\new bt26_3\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddContactForm.cs",
+              "ToolTip": "D:\\new bt26_3\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:31:09.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "MainForm..cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\MainForm..cs",
+              "DocumentMoniker": "D:\\new bt26_3\\MainForm..cs",
               "RelativeDocumentMoniker": "MainForm..cs",
-              "ToolTip": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\MainForm..cs [Design]",
+              "ToolTip": "D:\\new bt26_3\\MainForm..cs [Design]",
               "RelativeToolTip": "MainForm..cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T02:54:28.958Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-26T02:54:28.958Z"
             }
           ]
         }

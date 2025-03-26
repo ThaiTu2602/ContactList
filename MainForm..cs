@@ -19,8 +19,8 @@ namespace ContactList
 
         private void button1_Click(object sender, EventArgs e)
         {
-            AddContactForm form2 = new AddContactForm();
-            form2.Show();
+           
+
         }
     }
 }

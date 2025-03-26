@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\kt26.3\\ContactList\\",
+  "WorkspaceRootPath": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|d:\\kt26.3\\contactlist\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|c:\\users\\quoc dat\\source\\repos\\contactlist\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|c:\\users\\quoc dat\\source\\repos\\contactlist\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|c:\\users\\quoc dat\\source\\repos\\contactlist\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 10,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -34,14 +54,6 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             },
             {
@@ -55,10 +67,35 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MainForm..cs [Design]",
-              "DocumentMoniker": "D:\\kt26.3\\ContactList\\MainForm..cs",
+              "Title": "MainForm..cs",
+              "DocumentMoniker": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\MainForm..cs",
               "RelativeDocumentMoniker": "MainForm..cs",
-              "ToolTip": "D:\\kt26.3\\ContactList\\MainForm..cs [Design]",
+              "ToolTip": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\MainForm..cs",
+              "RelativeToolTip": "MainForm..cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:32:25.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddContactForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\AddContactForm.cs",
+              "RelativeDocumentMoniker": "AddContactForm.cs",
+              "ToolTip": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\AddContactForm.cs [Design]",
+              "RelativeToolTip": "AddContactForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T03:31:09.117Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm..cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\MainForm..cs",
+              "RelativeDocumentMoniker": "MainForm..cs",
+              "ToolTip": "C:\\Users\\Quoc Dat\\source\\repos\\ContactList\\MainForm..cs [Design]",
               "RelativeToolTip": "MainForm..cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T02:54:28.958Z",

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\new bt26_3\\",
+  "WorkspaceRootPath": "D:\\bt26.3_final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|d:\\new bt26_3\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|d:\\bt26.3_final\\addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:addcontactform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|D:\\new bt26_3\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|D:\\bt26.3_final\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|D:\\new bt26_3\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|D:\\bt26.3_final\\mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF873434-C5FE-4EBA-AF72-CD755D82772A}|ContactList.csproj|solutionrelative:mainform..cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -68,9 +68,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainForm..cs",
-              "DocumentMoniker": "D:\\new bt26_3\\MainForm..cs",
+              "DocumentMoniker": "D:\\bt26.3_final\\MainForm..cs",
               "RelativeDocumentMoniker": "MainForm..cs",
-              "ToolTip": "D:\\new bt26_3\\MainForm..cs",
+              "ToolTip": "D:\\bt26.3_final\\MainForm..cs",
               "RelativeToolTip": "MainForm..cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAqwBYAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -80,9 +80,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "AddContactForm.cs [Design]",
-              "DocumentMoniker": "D:\\new bt26_3\\AddContactForm.cs",
+              "DocumentMoniker": "D:\\bt26.3_final\\AddContactForm.cs",
               "RelativeDocumentMoniker": "AddContactForm.cs",
-              "ToolTip": "D:\\new bt26_3\\AddContactForm.cs [Design]",
+              "ToolTip": "D:\\bt26.3_final\\AddContactForm.cs [Design]",
               "RelativeToolTip": "AddContactForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T03:31:09.117Z",
@@ -92,10 +92,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm..cs [Design]",
-              "DocumentMoniker": "D:\\new bt26_3\\MainForm..cs",
+              "DocumentMoniker": "D:\\bt26.3_final\\MainForm..cs",
               "RelativeDocumentMoniker": "MainForm..cs",
               "ToolTip": "D:\\new bt26_3\\MainForm..cs [Design]",
-              "RelativeToolTip": "MainForm..cs [Design]",
+              "RelativeToolTip": "..\\new bt26_3\\MainForm..cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T02:54:28.958Z"
             }
